@@ -6,7 +6,7 @@ Case Directory	C:\Users\souka\OneDrive\Bureau\TM\adv\adv\network_data\GPKG
 Case Name		Esta_NEW
 
 #Database
-Connection		test						[postgres/postgres]
+Connection		test						[postgres/1993]
 GPKG Table		uploaded_geopackages		[id/name/data/time]
 
 #GPKG
@@ -57,4 +57,5 @@ epsilon				Y			Y				Y			Y			Y			Y			Y
 material_cost		Y			Y				Y			Y			Y			Y			Y
 engineering_cost	Y			Y				Y			Y			Y			Y			Y
 operating_cost		Y			Y				Y			Y			Y			Y			Y
+
 resources_cost		Y			Y				Y			Y			Y			Y			Y
